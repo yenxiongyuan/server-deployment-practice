@@ -11,7 +11,7 @@ Server Deployment Practice
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/yenxiongyuan/server-deployment-practice/actions)
-- [back-end server url](http://xyz.com) (when applicable)
+
 
 
 ### Setup
@@ -40,4 +40,4 @@ for now I have none and do not require one
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![lab 1 whiteboard](./assets/lab-1.png)
